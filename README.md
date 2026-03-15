@@ -1,6 +1,6 @@
 # render-app
 
-In this assignment, I deployed a very simple Node.js Express application to Render.com. The purpose of this assignment was to learn basic cloud deployment using Paas. 
+This repository contains a simple **Node.js Express application** deployed to [Render.com](https://render.com) as part of the **Cloud Services** course. The purpose of this assignment is to learn **basic cloud deployment using a Platform-as-a-Service (PaaS)**.
 
 ### Link to the app:
 
